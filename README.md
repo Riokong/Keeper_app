@@ -15,8 +15,7 @@ It lets you create and delete notes, with everything stored locally in your brow
 ---
 
 ## 🚀 Demo
-![screenshot](docs/screenshot.png)  
-
+![screenshot](docs/Screenshot.png)
 ---
 
 ## 🛠 Tech Stack
@@ -54,7 +53,7 @@ src/components/
  ├── Header.jsx       # App header
  ├── Footer.jsx       # App footer
  ├── index.js         # Entry point
- 
+
 🧩 Data Flow
 css
 Copy code
