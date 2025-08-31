@@ -75,4 +75,4 @@ Pull requests are welcome!
 If you’d like to improve styling, add features (like editing notes, pinning, or search), feel free to fork and submit a PR.
 
 📜 License
-MIT License © 2025 Riokong
+open source
